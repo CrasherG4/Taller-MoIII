@@ -1,0 +1,44 @@
+{
+  "dramas": [
+    {
+      "titulo": "Crash Landing on You",
+      "descripcion": "Una heredera surcoreana aterriza accidentalmente en Corea del Norte, donde un oficial del ejército la ayuda a esconderse.",
+      "capitulos": 16,
+      "fecha_estreno": "2019-12-14",
+      "idioma": "Coreano",
+      "imagen": ""
+    },
+    {
+      "titulo": "It's Okay to Not Be Okay",
+      "descripcion": "Un trabajador de salud mental y una escritora de cuentos infantiles con personalidad antisocial encuentran la sanación juntos.",
+      "capitulos": 16,
+      "fecha_estreno": "2020-06-20",
+      "idioma": "Coreano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Vincenzo",
+      "descripcion": "Un abogado coreano criado en Italia regresa a su país y usa sus habilidades de la mafia para impartir justicia.",
+      "capitulos": 20,
+      "fecha_estreno": "2021-02-20",
+      "idioma": "Coreano",
+      "imagen": ""
+    },
+    {
+      "titulo": "Goblin",
+      "descripcion": "Un ser inmortal busca a la persona destinada a romper su maldición, mientras enfrenta dilemas existenciales.",
+      "capitulos": 16,
+      "fecha_estreno": "2016-12-02",
+      "idioma": "Coreano",
+      "imagen": "assets/img/Goblin.jpg"
+    },
+    {
+      "titulo": "Start-Up",
+      "descripcion": "Jóvenes emprendedores luchan por sus sueños en la industria tecnológica mientras buscan el éxito y el amor.",
+      "capitulos": 16,
+      "fecha_estreno": "2020-10-17",
+      "idioma": "Coreano",
+      "imagen": "assets/img/Start-Up.jpg"
+    }
+  ]
+}
